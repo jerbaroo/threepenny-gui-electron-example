@@ -12,6 +12,5 @@ Then to package with electron-packager:
 
 ```
 npm install electron-packager
-stack install --local-bin-path build
 ./node_modules/.bin/electron-packager . --ignore=app --ignore=src --ignore=.stack-work/
 ```
