@@ -1,5 +1,10 @@
 # threepenny-gui-electron-example
 
+An example application for [the guide](https://github.com/HeinrichApfelmus/threepenny-gui/blob/master/doc/electron.md)
+on running and packaging Threepenny apps with Electron and Electron Packager.
+
+*** 
+
 To run with Electron:
 
 ```
